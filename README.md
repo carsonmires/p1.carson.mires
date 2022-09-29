@@ -1,5 +1,14 @@
 # p1.carson.mires
+
 ## Elevator Design
+
+### Links
+
+[Presentation Page](carsonmires.github.io)
+
+[Github Repo](https://github.com/carsonmires/p1.carson.mires)
+
+-------
 
 The elevator I have chosen is this one, in a parking garage outside of campus
 
