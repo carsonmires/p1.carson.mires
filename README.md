@@ -42,7 +42,7 @@ A user interacts with the elevator in this general order
 A good way this elevator shows feedback, is by lighting up the button upon press. This is seen generally by all and tells that the button has been pressed.
 My new sketch shows some improvement on some features inside of this elevator that could be implemented on a touch screen.
 
-<img src="https://github.com/carsonmires/p1.carson.mires/blob/main/images/sketch.jpg" width=25% height=25%>
+<img src="https://github.com/carsonmires/p1.carson.mires/blob/main/images/p1.carson.mires.png" width=25% height=25%>
 
 
 ### My Interface
@@ -55,4 +55,4 @@ The interface I have created is fairly similar to the example one used earlier, 
 5. When the alarm is pressed, the entire panel goes away signaling that you pressed the alarm, and are waiting for help
 
 
-<img src="https://github.com/carsonmires/p1.carson.mires/blob/main/images/design_AdobeExpress.gif" width=50% height=50%>
+<img src="https://github.com/carsonmires/p1.carson.mires/blob/main/images/p1.carson.mires.gif" width=50% height=50%>
